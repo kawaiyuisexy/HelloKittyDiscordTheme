@@ -38,13 +38,12 @@
   --scrollbar-colour: rgb(238,0,128,0.05);
   --gradient-direction: 320deg;
   --tint-colour: 255,0,135;
-  --tint-brightness: 0.18;
+  --tint-brightness: 0;
   --font: gg sans;
   --window-padding: 20px;
   --window-roundness: 10px;
   --update-notice-1: none;
 }
 
-/* Any custom CSS below here */
 
 
