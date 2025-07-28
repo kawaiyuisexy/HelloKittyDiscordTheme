@@ -1,3 +1,3 @@
 # hellokittycss
 
-(discord Server)[https://discord.gg/sexyguild]
+[discord Server](https://discord.gg/sexyguild)
